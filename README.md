@@ -1,2 +1,2 @@
-# pagina-quiputech
+# Pagina-QuipuTech
 Es una pagina para Arqui
